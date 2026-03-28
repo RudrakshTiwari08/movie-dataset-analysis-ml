@@ -259,11 +259,11 @@ It helps others discover the project and supports open-source learning.
 
 Rudraksh Tiwari
 
-B.Tech Student | Data Science Enthusiast | Python Developer
+B.Tech-CSE-AI Student | Data Science Enthusiast | Python Developer
 
 ---
 
 # 📜 License
 
-This project is open-source and available under the MIT License.
+This project is open-source .
 
